@@ -17,4 +17,4 @@ logging.basicConfig(
     ]
 )
 
-logger=logging.getLogger('CnnImageClassifierLogger')
+logger=logging.getLogger('imageclassifierLogger')
