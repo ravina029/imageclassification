@@ -21,7 +21,7 @@ with open('README.md','r', encoding='utf-8') as f:
 
 
 setup(
-    name='imageclassification',
+    name='imageclassifier',
     version='0.0.1',
     author='ravina',
     author_email='vermaravina029@gmail.com',
